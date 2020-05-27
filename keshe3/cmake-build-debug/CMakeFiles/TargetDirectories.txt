@@ -1,0 +1,3 @@
+E:/keshe3/cmake-build-debug/CMakeFiles/keshe3.dir
+E:/keshe3/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/keshe3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
