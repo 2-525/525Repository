@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "E:/keshe3/main.c" "E:/keshe3/cmake-build-debug/CMakeFiles/keshe3.dir/main.c.obj"
+  "E:/github_repository/525/525Repository/keshe3/main.c" "E:/github_repository/525/525Repository/keshe3/cmake-build-debug/CMakeFiles/keshe3.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

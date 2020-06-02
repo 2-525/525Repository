@@ -6,10 +6,8 @@
 
 #IncludeRegexTransform: 
 
-E:/keshe3/main.c
+E:/keshe4/main.c
 stdio.h
--
-stdlib.h
 -
 string.h
 -
